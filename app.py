@@ -1,3 +1,4 @@
+# Taller 2 - Cambio realizado en la rama laura-cambios
 import dash
 from dash import dcc
 from dash import html
