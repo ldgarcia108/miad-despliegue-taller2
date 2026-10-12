@@ -1,4 +1,5 @@
 # Taller 2 - Cambio realizado en la rama laura-cambios
+# Taller 2 - Actualizacion publicada en GitHub
 import dash
 from dash import dcc
 from dash import html
