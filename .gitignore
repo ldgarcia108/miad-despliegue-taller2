@@ -1,0 +1,5 @@
+.DS_Store
+*.zip
+dsa_taller2_git.pdf
+.venv/
+__pycache__/
